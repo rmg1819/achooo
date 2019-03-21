@@ -19,7 +19,7 @@ namespace murcianovaliente
 
         private void button1_Click(object sender, EventArgs e)
         {
-            MessageBox.Show("Por el culo te la hinco");
+            MessageBox.Show("rima fácil");
         }
     }
 }
